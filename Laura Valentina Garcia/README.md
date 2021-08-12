@@ -6,7 +6,7 @@
 
 
 ### Contacto
-- ** Github: ** [Laura Garcia](https://github.com/laura-gar "Laura Garcia")
+- **Github:** [Laura Garcia](https://github.com/laura-gar "Laura Garcia")
 
 #### Sobre mi
 
