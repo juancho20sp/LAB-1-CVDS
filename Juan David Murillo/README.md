@@ -18,6 +18,7 @@ _"Estudiante de Ingeniería de Sistemas de octavo semestre, actualmente trabajan
 ##### Mis gustos
 
 - Música.
+- Seguridad informática.
 - Conocimiento de nuevas tecnologías.
 - Arquitecturas informáticas.
 - Experiencia de usuario
