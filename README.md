@@ -3,7 +3,7 @@
 - Laura Valentina García León.
 - Juan David Murillo.
 <br/>
-**Pareja #2**
+**Pareja 2**
 - Juan Cadavid.
 - Laura García.
 
