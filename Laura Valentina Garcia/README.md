@@ -15,8 +15,8 @@
 ##### Mis gustos
 - Deportes.
 - Series y películas.
-- Animalitos bonitos 
-- 
+- Animalitos bonitos.
+
 ![Imagen sapito](https://github.com/juancho20sp/LAB-1-CVDS/blob/master/Laura%20Valentina%20Garcia/Imagen.png)
 
 ###### Mi código favorito
