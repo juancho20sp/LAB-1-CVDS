@@ -10,9 +10,13 @@
 
 #### Sobre mi
 
-*"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."*
+*"Estudiante de Ingeniería de Sistemas cursando Octavo semestre en la Escuela Colombiana de Ingeniería Julio Garavito."*
 
 ##### Mis gustos
+- Deportes.
+- Series y películas.
+- Animalitos bonitos.
+
 ![Imagen sapito](https://github.com/juancho20sp/LAB-1-CVDS/blob/master/Laura%20Valentina%20Garcia/Imagen.png)
 
 ###### Mi código favorito
